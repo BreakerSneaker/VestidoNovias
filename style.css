@@ -32,11 +32,11 @@ h2{
 h1{
     text-align: center;
     
-    font-size: 200px;
+    font-size: 10vw;
     color: aliceblue;
     font-family: 'Times New Roman', Times, serif;
     max-width: 100%;
-    height: auto;
+    height: auto*100;
     width: auto\9;
 }
 
@@ -88,7 +88,7 @@ img{
 
 h3{
     height: 950px;
-    font-size: 100px;
+    font-size: 10vw;
     text-align: center;
     color: aliceblue;
     max-width: 100%;
